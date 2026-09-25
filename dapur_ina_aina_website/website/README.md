@@ -1,4 +1,4 @@
-# Dapur Ina Aina — Website (Tugas Sesi 3)
+# Dapur Ina Aina — Website
 
 Website pengolahan transaksi restoran "Dapur Ina Aina", dibangun dengan
 **PHP + MySQL/MariaDB**, sesuai rancangan software pada Tugas Sesi 1 dan
@@ -26,7 +26,7 @@ website/
 
 1. **Buat database** — buka phpMyAdmin, lalu jalankan isi file
    `sql/dapur_ina_aina.sql` (Import atau copy-paste ke tab SQL). Skema ini
-   identik dengan rancangan MySQL pada Tugas Sesi 2 (tabel `pengguna`,
+   identik dengan rancangan MySQL (tabel `pengguna`,
    `pelanggan`, `kategori`, `produk`, `pesanan`, `detail_pesanan`,
    `pembayaran`).
 
