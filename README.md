@@ -1,2 +1,0 @@
-# Dapur-Ina-Aina
-LSP
